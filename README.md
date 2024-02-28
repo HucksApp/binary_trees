@@ -3,7 +3,9 @@
 
 ## TREES
 
-A tree is a non-linear abstract data type (node) that are connected via links in a hierarchy-based structure.<img width="511" alt="Screenshot 2024-02-28 at 5 22 29 AM" src="https://github.com/HucksApp/binary_trees/assets/58187974/56d187da-ab38-44a6-93d8-9ac0726782bb">
+A tree is a non-linear abstract data type (node) that are connected via links in a hierarchy-based structure.
+
+![tree](https://github.com/HucksApp/binary_trees/assets/58187974/56d187da-ab38-44a6-93d8-9ac0726782bb)
 
 ## General Terms
 
@@ -28,7 +30,7 @@ A tree is a non-linear abstract data type (node) that are connected via links in
 Trees                     |      Description 
 --------------------------|---------------------
  General Trees            | Unordered tree data structures where the root node has minimum 0 or maximum ‘n’ subtrees
- Binary Trees             | General trees in which the root node can only hold up to maximum 2 subtrees: left subtree and right subtree
+ Binary Trees             | *General trees* in which the root node can only hold up to maximum 2 subtrees: left subtree and right subtree
  Binary Search Trees      | Is a *Binary Tree* where the data is always stored in such a way that the values in the left subtree are always less than the values in the root node and the values in the right subtree are always greater than the values in the root node, i.e. `left subtree < root node ≤ right subtree`
 
 
