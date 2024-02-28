@@ -42,3 +42,27 @@ Full Binary Tree          | A binary tree type where every node has either 0 or 
 Complete Binary Tree      | A binary tree type where all the leaf nodes must be on the same level. However, root and internal, all nodes must either have 0, 1 or 2 child nodes
 Perfect Binary Tree       | A binary tree type where all the leaf nodes are on the same level and every other node except leaf nodes have 2 children
 
+
+<img width="773" alt="Screenshot 2024-02-28 at 2 44 08 PM" src="https://github.com/HucksApp/binary_trees/assets/58187974/7b2a1238-4068-4f49-a41d-70d0f1942177">
+
+
+
+## Traversing the Binary Trees
+
+Traversal Types           |      Description 
+--------------------------|---------------------
+Inorder traversal         | (1) visit all the nodes in the left subtree `inorder(root->left)`
+                          | (2) Then the root node `display(root->data)`
+                          | (3) Visit all the nodes in the right subtree ` inorder(root->right)`
+Preorder traversal        | (1) Visit root node `display(root->data)`
+                          | (2) Visit all the nodes in the left subtree `inorder(root->left)`
+                          | (3) Visit all the nodes in the right subtree ` inorder(root->right)`
+Postorder traversal       | (1) Visit all the nodes in the left subtree `inorder(root->left)`
+                          | (2) Visit all the nodes in the right subtree ` inorder(root->right)`
+                          | (3) Visit root node `display(root->data)`
+
+
+                          
+
+
+
