@@ -38,5 +38,5 @@ Trees                     |      Description
 --------------------------|---------------------
 Full Binary Tree          | A binary tree type where every node has either 0 or 2 child nodes 
 Complete Binary Tree      | A binary tree type where all the leaf nodes must be on the same level. However, root and internal, all nodes must either have 0, 1 or 2 child nodes
-Perfect Binary Tree       | A binary tree type where all the leaf nodes are on the same level and every node except leaf nodes have 2 children
+Perfect Binary Tree       | A binary tree type where all the leaf nodes are on the same level and every other node except leaf nodes have 2 children
 
