@@ -52,17 +52,18 @@ Perfect Binary Tree       | A binary tree type where all the leaf nodes are on t
 Traversal Types           |      Description 
 --------------------------|---------------------
 Inorder traversal         | (1) visit all the nodes in the left subtree `inorder(root->left)`
-                          | (2) Then the root node `display(root->data)`
-                          | (3) Visit all the nodes in the right subtree ` inorder(root->right)`
+  ⟹                      | (2) Then the root node `display(root->data)`
+  ⟹                      | (3) Visit all the nodes in the right subtree ` inorder(root->right)`
 Preorder traversal        | (1) Visit root node `display(root->data)`
-                          | (2) Visit all the nodes in the left subtree `inorder(root->left)`
-                          | (3) Visit all the nodes in the right subtree ` inorder(root->right)`
+  ⟹                      | (2) Visit all the nodes in the left subtree `inorder(root->left)`
+  ⟹                      | (3) Visit all the nodes in the right subtree ` inorder(root->right)`
 Postorder traversal       | (1) Visit all the nodes in the left subtree `inorder(root->left)`
-                          | (2) Visit all the nodes in the right subtree ` inorder(root->right)`
-                          | (3) Visit root node `display(root->data)`
+  ⟹                      | (2) Visit all the nodes in the right subtree ` inorder(root->right)`
+  ⟹                      | (3) Visit root node `display(root->data)`
 
 
                           
+
 
 
 
