@@ -29,4 +29,4 @@ Trees                     |      Description
 --------------------------|---------------------
  General Trees            | General trees are unordered tree data structures where the root node has minimum 0 or maximum ‘n’ subtrees
  Binary Trees             | Binary Trees are general trees in which the root node can only hold up to maximum 2 subtrees: left subtree and right subtree
- Binary Search Trees      | Is a *Binary Tree* where the data is always stored in such a way that the values in the left subtree are always less than the values in the root node and the values in the right subtree are always greater than the values in the root node, i.e. left subtree < root node ≤ right subtree
+ Binary Search Trees      | Is a *Binary Tree* where the data is always stored in such a way that the values in the left subtree are always less than the values in the root node and the values in the right subtree are always greater than the values in the root node, i.e. `left subtree < root node ≤ right subtree`
