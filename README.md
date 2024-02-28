@@ -30,3 +30,13 @@ Trees                     |      Description
  General Trees            | Unordered tree data structures where the root node has minimum 0 or maximum ‘n’ subtrees
  Binary Trees             | General trees in which the root node can only hold up to maximum 2 subtrees: left subtree and right subtree
  Binary Search Trees      | Is a *Binary Tree* where the data is always stored in such a way that the values in the left subtree are always less than the values in the root node and the values in the right subtree are always greater than the values in the root node, i.e. `left subtree < root node ≤ right subtree`
+
+
+## Types of Binary Trees
+
+Trees                     |      Description 
+--------------------------|---------------------
+Full Binary Tree          | A binary tree type where every node has either 0 or 2 child nodes 
+Complete Binary Tree      | A binary tree type where all the leaf nodes must be on the same level. However, root and internal, all nodes must either have 0, 1 or 2 child nodes
+Perfect Binary Tree       | A binary tree type where all the leaf nodes are on the same level and every node except leaf nodes have 2 children
+
