@@ -8,9 +8,9 @@ void binary_tree_delete(binary_tree_t *tree)
 {
 	if (!tree)
 		return;
-  /* first delete both subtrees */
+  	/* first delete both subtrees */
 	binary_tree_delete(tree->right);
 	binary_tree_delete(tree->left);
-  /* then delete the node */
+  	/* then delete the node */
 	free(tree);
 }
