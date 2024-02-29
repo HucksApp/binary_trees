@@ -57,10 +57,10 @@ Inorder traversal         | (1) visit all the nodes in the left subtree `inorder
   ⟹                      | (2) Then the root node `display(root->data)`
   ⟹                      | (3) Visit all the nodes in the right subtree ` inorder(root->right)`
 Preorder traversal        | (1) Visit root node `display(root->data)`
-  ⟹                      | (2) Visit all the nodes in the left subtree `inorder(root->left)`
-  ⟹                      | (3) Visit all the nodes in the right subtree ` inorder(root->right)`
-Postorder traversal       | (1) Visit all the nodes in the left subtree `inorder(root->left)`
-  ⟹                      | (2) Visit all the nodes in the right subtree ` inorder(root->right)`
+  ⟹                      | (2) Visit all the nodes in the left subtree `preorder(root->left)`
+  ⟹                      | (3) Visit all the nodes in the right subtree ` preorder(root->right)`
+Postorder traversal       | (1) Visit all the nodes in the left subtree `postorder(root->left)`
+  ⟹                      | (2) Visit all the nodes in the right subtree ` postorder(root->right)`
   ⟹                      | (3) Visit root node `display(root->data)`
 
 
