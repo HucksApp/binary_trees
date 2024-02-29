@@ -17,7 +17,8 @@ A tree is a non-linear abstract data type (node) that are connected via links in
  Child                     | Every node that is pointed to by another node (starting from the root) is the child of the parent node pointing to it
  Leaf                      | The node which does not have any child node 
  Traversing                | Traversing means passing through nodes in a specific order
- Levels                    | Generations of a node 
+ Levels                    | Generations of a node
+ Height                    | The height of a binary tree is the length of the longest path from the root to a leaf.
 
 
  ## Types of Trees
