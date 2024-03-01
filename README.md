@@ -1,4 +1,4 @@
-# Binary Trees 🌲🌲🌲
+# Binary Trees 🌲⛓🌲
 
 
 ## TREES 🌲
@@ -7,7 +7,7 @@ A tree is a non-linear abstract data type (node) that are connected via links in
 
 ![tree](https://github.com/HucksApp/binary_trees/assets/58187974/56d187da-ab38-44a6-93d8-9ac0726782bb)
 
-## General Terms
+## General Terms 📒
 
  Terms                     |      Description 
  --------------------------|---------------------
@@ -95,8 +95,8 @@ Files | Description
 [17-binary_tree_sibling.c](./17-binary_tree_sibling.c) | C function that finds the sibling of a node
 [18-binary_tree_uncle.c](./18-binary_tree_uncle.c) | C function that finds the uncle of a node
 
-### Authors
-[HUCKS](https://github.com/HucksApp)
+### Authors 🖌
+[Hucks](https://github.com/HucksApp) 
 
 
 
