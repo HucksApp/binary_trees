@@ -1,7 +1,7 @@
-# Binary Trees 🌲⛓🌲
+# Binary Trees ⛓🌲
 
 
-## TREES 🌲
+## TREES 🌲 🌳
 
 A tree is a non-linear abstract data type (node) that are connected via links in a hierarchy-based structure.
 
